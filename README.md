@@ -1,4 +1,4 @@
-# 👋 Hi, I'm injifann!
+# 👋 Hi, I'm Kabe gutema!
 
 ### 🚀 About Me
 I am a focused **MERN Stack Developer** dedicated to building functional, data-driven web applications. I love taking ideas from database schema design all the way to a polished frontend user interface.
