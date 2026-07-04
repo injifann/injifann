@@ -12,7 +12,7 @@ I am a focused **MERN Stack Developer** dedicated to building functional, data-d
 ---
 
 ### 📁 Featured Projects
-### 📚 ReadTrack App**
+### 📚 ReadTrack App
   * A full-stack reading tracker application built using the **MERN Stack** (MongoDB, Express.js, React, Node.js).
   * Implemented complete **CRUD (Create, Read, Update, Delete)** capabilities, allowing users to seamlessly manage their book lists, reading progress, and logs.
  ### 🔒 MERN Stack Authentication System
