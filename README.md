@@ -1,17 +1,21 @@
 # 👋 Hi, I'm Kabe gutema!
 
 ### 🚀 About Me
-I am a focused **MERN Stack Developer** dedicated to building functional, data-driven web applications. I love taking ideas from database schema design all the way to a polished frontend user interface.
+I am a focused Full Stack Developer dedicated to building functional, data-driven web applications. I love taking ideas from database schema design all the way to a polished frontend user interface
 
 ---
 
 ### 🛠️ What I'm Working On
-* **🐔 Poultry E-Commerce Platform**: Currently developing a full-stack e-commerce marketplace using the **MERN Stack** optimized for poultry trading. Focus areas include dynamic product catalogs, shopping cart management, persistent user sessions, and role-based handling for sellers and buyers.
-* **⚡ Frontend Optimization**: Speeding up development workflows and improving application performance by using modern build tools like **Vite** for blazing-fast React bundling.
+📚 Expanding My Full-Stack Skills: Currently learning Next.js, Prisma, and TypeScript to build modern, scalable, and type-safe full-stack applications.
+⚡ Frontend Optimization**: Speeding up development workflows and improving application performance by using modern build tools like **Vite** for blazing-fast React bundling.
 
 ---
 
 ### 📁 Featured Projects
+
+### 🐔 Poultry E-Commerce Platform
+A full-stack e-commerce platform built using the MERN Stack for buying and selling poultry products.
+Features include JWT authentication, Google OAuth, role-based access (Admin/User), product and category management, shopping cart, order management, image uploads with Cloudinary, and a responsive user interface built with Tailwind CSS.
 ### 📚 ReadTrack App
   * A full-stack reading tracker application built using the **MERN Stack** (MongoDB, Express.js, React, Node.js).
   * Implemented complete **CRUD (Create, Read, Update, Delete)** capabilities, allowing users to seamlessly manage their book lists, reading progress, and logs.
