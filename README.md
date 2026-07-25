@@ -21,8 +21,6 @@ Features include JWT authentication, Google OAuth, role-based access (Admin/User
 A modern full-stack note-taking application built with **Next.js App Router**, **Prisma ORM**, **PostgreSQL**, and **TypeScript**. The application demonstrates modern React and Next.js patterns using **Server Components**, **Server Actions**, and automatic UI revalidation.
 
 **Key Features**
-
-* 🔐 User authentication with secure login and registration
 * 📝 Create, update, and delete personal notes
 * 🔍 View notes ordered by creation date
 * ⚡ Server Actions for form handling without creating REST APIs
