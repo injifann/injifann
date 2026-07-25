@@ -7,6 +7,7 @@ I am a focused Full Stack Developer dedicated to building functional, data-drive
 
 ### 🛠️ What I'm Working On
 **📚 Expanding My Full-Stack Skills**: Currently learning Next.js, Prisma, and TypeScript to build modern, scalable, and type-safe full-stack applications.
+
 **⚡ Frontend Optimization**: Speeding up development workflows and improving application performance by using modern build tools like **Vite** for blazing-fast React bundling.
 
 ---
