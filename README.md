@@ -16,6 +16,30 @@ I am a focused Full Stack Developer dedicated to building functional, data-drive
 ### 🐔 Poultry E-Commerce Platform
 A full-stack e-commerce platform built using the MERN Stack for buying and selling poultry products.
 Features include JWT authentication, Google OAuth, role-based access (Admin/User), product and category management, shopping cart, order management, image uploads with Cloudinary, and a responsive user interface built with Tailwind CSS.
+### 📝 Next.js Notes App
+
+A modern full-stack note-taking application built with **Next.js App Router**, **Prisma ORM**, **PostgreSQL**, and **TypeScript**. The application demonstrates modern React and Next.js patterns using **Server Components**, **Server Actions**, and automatic UI revalidation.
+
+**Key Features**
+
+* 🔐 User authentication with secure login and registration
+* 📝 Create, update, and delete personal notes
+* 🔍 View notes ordered by creation date
+* ⚡ Server Actions for form handling without creating REST APIs
+* 🔄 Automatic UI updates using Next.js cache revalidation
+* ✅ Form validation using **Zod**
+* 🗄️ Database access with **Prisma ORM**
+* 🎨 Responsive interface built with **Tailwind CSS**
+* 📱 Clean, mobile-friendly design
+
+**Tech Stack**
+
+* **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS
+* **Backend:** Next.js Server Actions
+* **Database:** PostgreSQL
+* **ORM:** Prisma
+* **Validation:** Zod
+
 ### 📚 ReadTrack App
   * A full-stack reading tracker application built using the **MERN Stack** (MongoDB, Express.js, React, Node.js).
   * Implemented complete **CRUD (Create, Read, Update, Delete)** capabilities, allowing users to seamlessly manage their book lists, reading progress, and logs.
