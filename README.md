@@ -6,9 +6,17 @@ I am a focused Full Stack Developer dedicated to building functional, data-drive
 ---
 
 ### 🛠️ What I'm Working On
-**📚 Expanding My Full-Stack Skills**: Currently learning Next.js, Prisma, and TypeScript to build modern, scalable, and type-safe full-stack applications.
 
-**⚡ Frontend Optimization**: Speeding up development workflows and improving application performance by using modern build tools like **Vite** for blazing-fast React bundling.
+**🌍 Ethio Travel Hub**  
+Currently developing **Ethio Travel Hub**, a tourism platform designed to connect travelers with local guides, hotels, transport providers, and travel agencies.
+
+I'm currently focused on developing the **backend API** with **NestJS, TypeScript, Prisma, and PostgreSQL**, while documenting the APIs with **Swagger** to make the system easier to maintain, integrate, and scale.
+
+**📚 Expanding My Full-Stack Skills**  
+Continuously improving my skills with **Next.js, NestJS, Prisma, TypeScript, and PostgreSQL** while building production-oriented full-stack applications.
+
+**⚡ Frontend Optimization**  
+Improving development workflows and application performance using modern tools such as **Vite** for fast React development and optimized builds.
 
 ---
 
