@@ -64,8 +64,8 @@ A modern full-stack note-taking application built with **Next.js App Router**, *
 ---
 
 ### 🧰 Tech Stack
-* **Frontend:** React, JavaScript (ES6+), HTML5, Tailwindcss
-* **Backend & Database:** Node.js, Express.js, MongoDB, Mongoose
+* **Frontend:** Java script,Type script, React, Nextjs, Zod ,HTML Tailwind, css
+* **Backend & Database:** Node.js, Express.js, Nestjs, MongoDB, Mongoose, PostgreSQL, Prisma,swagger
 * **Tools & Workflow:** Git, GitHub, Vite, Postman
 
 ---
